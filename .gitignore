@@ -1,0 +1,15 @@
+# Node.js
+nodejs/node_modules/
+
+# React
+react/node_modules/
+react/build/
+
+# Environment files
+*.env
+
+# OS and editor files
+.DS_Store
+*.log
+.vscode/
+.idea/
